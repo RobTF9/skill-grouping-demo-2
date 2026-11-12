@@ -1,4 +1,17 @@
-# Skill grouping demo
+# Skill grouping demo 2
+
+A second copy of `skill-grouping-demo`, for a fresh connect. `main` holds rounds 1 to 4. The
+`long-changes` branch adds one commit on top of `main`: long rewrites of twelve skills.
+
+## Test the review of large updates
+
+1. Connect `https://github.com/RobTF9/skill-grouping-demo-2`.
+2. Import some of these skills: code-review, debug-logs, api-design, email-reply,
+   meeting-notes, blog-post, sql-helper, dashboard-review, linkedin-post, editorial,
+   pr-description, onboarding-checklist.
+3. Move `main` to `long-changes`: `git push origin long-changes:main`.
+4. Click Check now. Each imported skill from step 2 has an update. Each update should pass.
+
 
 Test fixtures for the n8n Skill Sync picker. They cover each rule of plugin grouping
 (CONTEXT-349) and each verdict of the security check.
