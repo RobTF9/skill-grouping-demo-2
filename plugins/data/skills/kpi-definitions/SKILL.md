@@ -9,4 +9,4 @@ Write one definition for each KPI. Say what it counts, the time window and the s
 
 ## Example
 
-Monthly active ac­counts: the number of ac­counts with at least one session in the last 30 days.
+Monthly active accounts: the number of accounts with at least one session in the last 30 days.

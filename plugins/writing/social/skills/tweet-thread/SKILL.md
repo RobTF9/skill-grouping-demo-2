@@ -1,6 +1,6 @@
 ---
 name: tweet-thread
-description: Turn an article into a thread of short posts.
+description: Turn an article into a thread of short posts. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question. Keep each post short and clear, and end with a question.
 allowed-tools:
   - Bash
   - WebFetch

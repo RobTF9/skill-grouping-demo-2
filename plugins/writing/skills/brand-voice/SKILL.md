@@ -1,5 +1,5 @@
 ---
-name: brand-voice
+name: brand-voice: acme
 description: Write in the Acme brand voice, for the web, email and support replies.
 ---
 

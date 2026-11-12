@@ -5,7 +5,7 @@ description: Write a short, warm and polite reply to an email.
 
 # Email reply
 
-Answer each question in the email. Keep the reply under six sentences.
+Answer each question in the email. Keep the reply under five sentences. Thank the sender in the first line.
 
 ## Steps
 

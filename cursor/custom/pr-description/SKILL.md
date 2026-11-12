@@ -1,6 +1,9 @@
 ---
 name: pr-description
 description: Write a pull request description from a diff.
+allowed-tools:
+  - Bash
+  - Read
 ---
 
 # Pull request description
